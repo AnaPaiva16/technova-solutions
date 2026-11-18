@@ -58,7 +58,6 @@ Os códigos foram verificados utilizando os validadores oficiais da W3C para gar
 * **CSS3:** *[Inserir status/resultado da validação W3C]*
 
 ---
-
 ## 🌐 Links do Projeto
 
 * **Repositório no GitHub:** [Acessar código-fonte](https://github.com)
