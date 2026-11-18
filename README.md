@@ -54,8 +54,8 @@ technova-solutions/
 
 Os códigos foram verificados utilizando os validadores oficiais da W3C para garantir conformidade com os padrões web:
 
-* **HTML5:** *[Acessar Resultado HTML5](https://validator.w3.org/nu/?level=warning&doc=https%3A%2F%2Fgithub.com%2FAnaPaiva16%2Ftechnova-solutions#textarea)*
-* **CSS3:** *[Acessar Resultado CSS3](https://jigsaw.w3.org/css-validator/validator)*
+* **HTML5:** *[Resultado HTML5](https://validator.w3.org/nu/?level=warning&doc=https%3A%2F%2Fgithub.com%2FAnaPaiva16%2Ftechnova-solutions#textarea)*
+* **CSS3:** *[Resultado CSS3](https://jigsaw.w3.org/css-validator/validator)*
 
 ---
 ## 🌐 Links do Projeto
