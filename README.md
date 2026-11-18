@@ -54,14 +54,14 @@ technova-solutions/
 
 Os códigos foram verificados utilizando os validadores oficiais da W3C para garantir conformidade com os padrões web:
 
-* **HTML5:** *[Inserir status/resultado da validação W3C]*
-* **CSS3:** *[Inserir status/resultado da validação W3C]*
+* **HTML5:** *[https://validator.w3.org/nu/?level=warning&doc=https%3A%2F%2Fgithub.com%2FAnaPaiva16%2Ftechnova-solutions#textarea]*
+* **CSS3:** *[https://jigsaw.w3.org/css-validator/validator]*
 
 ---
 ## 🌐 Links do Projeto
 
-* **Repositório no GitHub:** [Acessar código-fonte](https://github.com)
-* **Site Publicado (GitHub Pages):** [Visualizar projeto online](https://github.io)
+* **Repositório no GitHub:** [Acessar código-fonte](https://github.com/AnaPaiva16/technova-solutions)
+* **Site Publicado (GitHub Pages):** [Visualizar projeto online](https://anapaiva16.github.io/technova-solutions/)
 
 ---
 
@@ -69,4 +69,4 @@ Os códigos foram verificados utilizando os validadores oficiais da W3C para gar
 
 Projeto acadêmico desenvolvido como requisito de avaliação da Unidade Curricular de **Front-End**.
 
-*Desenvolvido por **[Seu Nome Aqui]**.*
+*Desenvolvido por **[Ana Júlia de Lima Paiva]**.*
